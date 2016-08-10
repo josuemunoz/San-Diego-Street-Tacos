@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.josue45.streettacos" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>San DiegoStreet Tacos</name>
+    <name>San Diego Street Tacos</name>
     <description>
-       San DiegoStreet Tacos
+       San Diego Street Tacos
     </description>
     <author email="josue@45graphics.net" href="josue45.com">
        Josue J Munoz
